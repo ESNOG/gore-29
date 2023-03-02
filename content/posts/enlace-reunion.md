@@ -1,7 +1,7 @@
 +++ 
 date = "2023-02-02"
-title = "Enlace a la reunion GORE28"
-slug = "gore28-link" 
+title = "Enlace a la reunion GORE29"
+slug = "gore29-link" 
 tags = []
 categories = []
 +++

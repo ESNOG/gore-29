@@ -5,7 +5,7 @@ draft: true
 ---
 
 ## Lugar de la Reunion
-{{% portfolio image="/gore29/img/logo2-EPS-UAM" alt="ESNOG" %}}
+{{% portfolio image="/gore29/img/logo2-EPS-UAM.jpg" alt="ESNOG" %}}
 
 **EPS-UAM**
 Sala de Grados C
