@@ -1,15 +1,15 @@
 +++ 
 draft = true
 date = 2023-05-03T16:52:57+02:00
-title = "Patrocinadores de GORE-28"
+title = "Patrocinadores de GORE-29"
 slug = "" 
 tags = []
 categories = []
-thumbnail = "img/esnog-28-altxcf.png"
+thumbnail = "img/esnog29.png"
 description = ""
 +++
 
-Agradecemos a las siguientes entidades su amable patrocinio de la reunion numero 28 de ESNOG (GORE-28):
+Agradecemos a las siguientes entidades su amable patrocinio de la reunion numero 29 de ESNOG (GORE-29):
 
 - CATNIX (https://catnix.net)
 - DECIX (https://de-cix.net)

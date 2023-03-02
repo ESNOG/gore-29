@@ -1,6 +1,6 @@
 baseurl = "https://esnog.net/gore29" # Hostname (and path) to the root.
 title = "ESNOG/GORE Reunion 29" # Site title.
-theme = "hugo-coder-portfolio" # Set the theme.
+theme = "coder-portfolio" # Set the theme.
 languagecode = "es" # The site’s language code used to generate RSS.
 defaultcontentlanguage = "es" # The default content language.
 
@@ -19,7 +19,7 @@ pygmentsUseClasses = true # new add
     description = "GORE 29 website" # Site description.
     keywords = "esnog,gore29,internet" # Site keywords.
     #avatarurl = "images/avatar.jpg" # Contain the path of the optionnal avatar in the static folder.
-    avatarurl = "img/ESNOG29-framed.jpg" 
+    avatarurl = "img/esnog29-framed.png" 
 
     footercontent = "Accede a mas detalles del evento en las entradas del menu superior" # Add footer content
     fixedbarContent = "Do you want to know me more private?→" # Add fixedbar content

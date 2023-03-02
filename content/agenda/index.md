@@ -5,9 +5,9 @@ draft: true
 ---
 
 ## Lugar de la Reunion
-{{% portfolio image="/gore28/img/UPC-logo1.png" alt="ESNOG" %}}
+{{% portfolio image="/gore29/img/logo2-EPS-UAM" alt="ESNOG" %}}
 
-**UPC**
+**EPS-UAM**
 Sala de Grados C
 Escuela Politecnica Superior, UAM
 
@@ -103,7 +103,7 @@ Abstract
 
 {{% /portfolio %}}  
 
-<img src="/gore28/img/RIPE_NCC_logo.png" alt="demo" class="img-responsive">
+<img src="/gore29/img/RIPE_NCC_logo.png" alt="demo" class="img-responsive">
 
 ##### Pre-evento social
  
@@ -121,7 +121,7 @@ Abstract
 
 ### 9:30 - 11:00 CEST 
 ##### Ronda de charlas de Puntos de intercambio de trafico (IXPs) 
-{{% portfolio image="/gore28/img/IX-talkers.jpg" alt="IXTALK" %}}
+{{% portfolio image="/gore29/img/IX-talkers.jpg" alt="IXTALK" %}}
 Actualizaciones de los puntos neutros españoles:
 - Maria Isabel Gandia (CATNIX) ([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
 - Javier Achirica (ESPANIX) ([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
