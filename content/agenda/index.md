@@ -31,7 +31,7 @@ Bienvenida a los asistentes e instrucciones sobre la reunion GORE-29
 {{% portfolio image="/gore29/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 Abstract
 
-([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
+([*PRESENTACION NO DISPONIBLE AUN*](/gore29/archivos/esnog.pdf))
 {{% /portfolio %}}  
 
 ---------------------------
@@ -40,7 +40,7 @@ Abstract
 {{% portfolio image="/gore29/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 Abstract
 
-([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
+([*PRESENTACION NO DISPONIBLE AUN*](/gore29/archivos/esnog.pdf))
 
 {{% /portfolio %}}  
 
@@ -60,7 +60,7 @@ Pausa para Café (patrocinada por ESPANIX)
 {{% portfolio image="/gore29/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 Abstract
 
-([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
+([*PRESENTACION NO DISPONIBLE AUN*](/gore29/archivos/esnog.pdf))
 {{% /portfolio %}}  
 
 ---------------------------
@@ -69,7 +69,7 @@ Abstract
 {{% portfolio image="/gore29/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 Abstract
 
-([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
+([*PRESENTACION NO DISPONIBLE AUN*](/gore29/archivos/esnog.pdf))
 
 {{% /portfolio %}}  
 
@@ -90,7 +90,7 @@ COMIDA (patrocinada por ESPANIX)
 {{% portfolio image="/gore29/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 Abstract
 
-([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
+([*PRESENTACION NO DISPONIBLE AUN*](/gore29/archivos/esnog.pdf))
 {{% /portfolio %}}  
 
 ---------------------------
@@ -99,7 +99,7 @@ Abstract
 {{% portfolio image="/gore29/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 Abstract
 
-([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
+([*PRESENTACION NO DISPONIBLE AUN*](/gore29/archivos/esnog.pdf))
 
 {{% /portfolio %}}  
 
@@ -123,9 +123,9 @@ Abstract
 ##### Ronda de charlas de Puntos de intercambio de trafico (IXPs) 
 {{% portfolio image="/gore29/img/IX-talkers.jpg" alt="IXTALK" %}}
 Actualizaciones de los puntos neutros españoles:
-- Maria Isabel Gandia (CATNIX) ([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
-- Javier Achirica (ESPANIX) ([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
-- Marcos Sanz (DECIX) ([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
+- Maria Isabel Gandia (CATNIX) ([*PRESENTACION NO DISPONIBLE AUN*](/gore29/archivos/esnog.pdf))
+- Javier Achirica (ESPANIX) ([*PRESENTACION NO DISPONIBLE AUN*](/gore29/archivos/esnog.pdf))
+- Marcos Sanz (DECIX) ([*PRESENTACION NO DISPONIBLE AUN*](/gore29/archivos/esnog.pdf))
 {{% /portfolio %}}  
 
 ---------------------------
@@ -142,7 +142,7 @@ Pausa para Café (patrocinada por ESPANIX)
 {{% portfolio image="/gore29/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 Abstract
 
-([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
+([*PRESENTACION NO DISPONIBLE AUN*](/gore29/archivos/esnog.pdf))
 {{% /portfolio %}}  
 
 ---------------------------
@@ -151,7 +151,7 @@ Abstract
 {{% portfolio image="/gore29/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 Abstract
 
-([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
+([*PRESENTACION NO DISPONIBLE AUN*](/gore29/archivos/esnog.pdf))
 
 {{% /portfolio %}}  
 
