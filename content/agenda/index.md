@@ -1,6 +1,6 @@
 ---
 title: "Agenda ESNOG 29"
-date: 2023-02-25
+date: 2023-03-04
 draft: true 
 ---
 
@@ -114,7 +114,7 @@ Abstract
 
 ---------------------------
 
-## Dia 13 de Mayo de 2022
+## Dia 19 de Mayo de 2023
 
 ### 9:00 - 9:30 CEST
 ##### Registro y Bienvenida
