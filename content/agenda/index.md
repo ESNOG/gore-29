@@ -114,30 +114,18 @@ Abstract
 
 ---------------------------
 
-## Dia 13 de Mayo de 2022
+## Dia 19 de Mayo de 2023
 
-### 9:00 - 9:30 CEST
+### 9:00 - 9:30 CEST 
 ##### Registro y Bienvenida
+{{% portfolio image="/gore29/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
-### 9:30 - 11:00 CEST 
-##### Ronda de charlas de Puntos de intercambio de trafico (IXPs) 
-{{% portfolio image="/gore29/img/IX-talkers.jpg" alt="IXTALK" %}}
-Actualizaciones de los puntos neutros españoles:
-- Maria Isabel Gandia (CATNIX) ([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
-- Javier Achirica (ESPANIX) ([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
-- Marcos Sanz (DECIX) ([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
+Bienvenida a los asistentes e instrucciones sobre la reunion GORE-29
 {{% /portfolio %}}  
 
 ---------------------------
 
-### 11:00 - 11:30 CEST
-{{% portfolio image="/gore29/img/cup-of-coffee-icon-59-small.png" alt="coffee" %}}
-Pausa para Café (patrocinada por ESPANIX)
-{{% /portfolio %}} 
-
----------------------------
-
-### 11:30 - 13:00 CEST     
+### 9:30 - 10:00 CEST
 ##### CHARLA 1, Ponente 
 {{% portfolio image="/gore29/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 Abstract
@@ -154,6 +142,27 @@ Abstract
 ([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
 
 {{% /portfolio %}}  
+
+---------------------------
+
+### 11:00-11:30  
+{{% portfolio image="/gore29/img/cup-of-coffee-icon-59-small.png" alt="coffee" %}}
+
+Pausa para Café (patrocinada por ESPANIX)
+
+{{% /portfolio %}} 
+
+---------------------------
+
+### 11:30 - 13:30 CEST     
+##### CHARLA 1, Ponente 
+{{% portfolio image="/gore29/img/esnog-logo-small.jpg" alt="ESNOG" %}}
+Abstract
+
+([*PRESENTACION NO DISPONIBLE AUN*](/esnog28/archivos/esnog.pdf))
+{{% /portfolio %}}  
+
+---------------------------
 
 ##### A.O.B. y Concurso
 
