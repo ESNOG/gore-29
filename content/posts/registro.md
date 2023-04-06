@@ -4,8 +4,6 @@ date: 2023-05-01T11:47:13+02:00
 draft: true
 ---
 
-# Registro
-
 El registro para asistir a la reunión GORE-29 de ESNOG se hace a través de este enlace:
 
 
@@ -17,3 +15,5 @@ La dirección de correo electrónico que indiques se usará para avisos y notifi
 También puedes utilizar el [Slack de ESNOG](https://esnog.slack.com) para estar al día en todas las novedades sobre este evento, y sobre [ESNOG](https://www.esnog.net) en general. 
 
 ---------------------------
+
+{{< sponsors >}}
