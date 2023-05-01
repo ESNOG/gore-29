@@ -6,6 +6,18 @@ draft: true
 
 ---------------------------
 
+### ESNOG, la asociación
+
+**Junta directiva ESNOG**
+
+---------------------------
+
+### Código de Conducta de ESNOG
+
+**María Isabel Gandía Carriedo** (ESNOG)
+
+---------------------------
+
 ### Routing Security
 
 **Álvaro Vives** (RIPE NCC)
@@ -15,6 +27,12 @@ draft: true
 ### Análisis automático de tráfico,
 
 **Javier Aracil / Jorge López de Vergara** (UAM / Naudit)
+
+---------------------------
+
+### EVPN VxLAN
+
+**Marcos Sanz** (DE-CIX)
 
 ---------------------------
 
@@ -41,9 +59,33 @@ Increased awareness on the value of IPv6 to support innovation and competitivene
 
 ---------------------------
 
+### Furibundamente en contra de IPv6
+
+**Borja Marcos** (Sarenet)
+
+---------------------------
+
 ### DDos desde Botnets
 
-**Javier Avilés** (Nokia)
+**Jose Alberto Nistal Iglesias** (Nokia)
+
+---------------------------
+
+### RFC8969: A Framework for Automating Service and Network Management with YANG
+
+**Diego López** (Telefónica)
+
+---------------------------
+
+### C&P: Configuración automática de BGP con un café en la mano
+
+**Carlos Fraga**
+
+---------------------------
+
+### Being a better Netizen: MANRS
+
+**Mircea Ulinic** (DigitalOcean)
 
 ---------------------------
 
