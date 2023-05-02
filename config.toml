@@ -22,8 +22,8 @@ pygmentsUseClasses = true # new add
     avatarurl = "img/esnog29-framed.png" 
 
     footercontent = "Accede a mas detalles del evento en las entradas del menu superior" # Add footer content
-    #fixedbarContent = "Accede a mas detalles del evento en las entradas del menu superior" # Add fixedbar content
-    #fixedbarContentAfter = "Gracias por tu interes. Compartelo si te gusta →" # Add fixedbar content after click
+    fixedbarContent = "Do you want to know me more private?→" # Add fixedbar content
+    fixedbarContentAfter = "Gracias por tu interes. Compartelo si te gusta →" # Add fixedbar content after click
 
     # Whether you want to hide copyright and credits in the footer.
     hideCredits = false
@@ -77,22 +77,18 @@ pygmentsUseClasses = true # new add
 
 # Menu links
 [[menu.main]]
-    name = "Registro"
-    weight = 1
-    url = "registro"
-[[menu.main]]
-    name = "Presentaciones"
-    weight = 2
-    url = "charlas"
-[[menu.main]]
     name = "Agenda"
-    weight = 3
+    weight = 1
     url  = "agenda"
+[[menu.main]]
+    name = "Detalles y Registro"
+    weight = 2
+    url  = "posts"
 [[menu.main]]
     name = "Acerca de ESNOG"
     weight = 4
     url = "about"
-[[menu.main]]
-    name = "Patrocinio"
-    weight = 5
-    url = "patrocinio"
+#[[menu.main]]
+#    name = "Registro"
+#    weight = 3
+#    url = "posts/registro"

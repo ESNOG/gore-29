@@ -11,7 +11,8 @@ description = ""
 
 Agradecemos a las siguientes entidades su amable patrocinio de la reunion numero 29 de ESNOG (GORE-29):
 
-- MercadoIT (https://mercadoit.com)
+- CATNIX (https://catnix.net)
+- DECIX (https://de-cix.net)
 - ESPANIX (https://espanix.net)
 - RIPE  (https://ripe.net)     
 - EPS-UAM (https://eps.uam.es)
