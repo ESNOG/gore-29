@@ -49,7 +49,7 @@ Abstract
 ### 11:00-11:30  
 {{% portfolio image="/gore29/img/cup-of-coffee-icon-59-small.png" alt="coffee" %}}
 
-Pausa para Café (patrocinada por ESPANIX)
+Pausa para Café
 
 {{% /portfolio %}} 
 
@@ -78,7 +78,7 @@ Abstract
 ### 13:30 - 14:30 CEST 
 {{% portfolio image="/gore29/img/lunch-icon-small.png" alt="lunch" %}}
 
-COMIDA (patrocinada por ESPANIX)
+COMIDA
 
 {{% /portfolio %}} 
 
@@ -132,7 +132,7 @@ Actualizaciones de los puntos neutros españoles:
 
 ### 11:00 - 11:30 CEST
 {{% portfolio image="/gore29/img/cup-of-coffee-icon-59-small.png" alt="coffee" %}}
-Pausa para Café (patrocinada por ESPANIX)
+Pausa para Café
 {{% /portfolio %}} 
 
 ---------------------------
@@ -158,3 +158,5 @@ Abstract
 ##### A.O.B. y Concurso
 
 ---------------------------
+
+{{< sponsors >}}
