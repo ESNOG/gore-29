@@ -76,7 +76,7 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-29
 ### 12:00 - 12:30 CEST
 ##### Análisis automático de tráfico
 **Javier Aracil / Jorge López de Vergara (UAM / Naudit)** 
-{{% portfolio image="/gore29/img/UAM_small.png" alt="EPS UAM" %}}
+{{% portfolio image="/gore29/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore29/archivos/esnog.pdf))
 
@@ -103,7 +103,7 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-29
 ### 14:30 - 15:00 CEST
 ##### IPv6 is entering its maturity stage
 **Paolo Volpato (Huawei)** 
-{{% portfolio image="/gore29/img/huawei_small.jpg" alt="Huawei" %}}
+{{% portfolio image="/gore29/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore29/archivos/esnog.pdf))
 {{% /portfolio %}}  
@@ -112,7 +112,7 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-29
 ### 15:00 - 15:30 CEST
 ##### A Framework for Automating Service and Network Management with YANG
 **Diego López (Telefónica)** 
-{{% portfolio image="/gore29/img/telefonica_small.jpg" alt="Telefonica" %}}
+{{% portfolio image="/gore29/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore29/archivos/esnog.pdf))
 
@@ -191,7 +191,7 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-29
 ### 10:00 - 10:30 CEST     
 ##### DDos desde Botnets
 **Jose Alberto Nistal Iglesias (Nokia)** 
-{{% portfolio image="/gore29/img/nokia_small.png" alt="Nokia" %}}
+{{% portfolio image="/gore29/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore29/archivos/esnog.pdf))
 {{% /portfolio %}}  
