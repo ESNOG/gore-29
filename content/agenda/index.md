@@ -49,7 +49,7 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-29
 ## 10:30 - 11:00 CEST
 ##### Técnicas de modulación para fibra óptica
 **Amedeo Beck-Peccoz (SolidOptics)** 
-{{% portfolio image="/gore29/img/esnog-logo-small.jpg" alt="ESNOG" %}}
+{{% portfolio image="/gore29/img/Amedeo_beck-small.jpg" alt="ESNOG" %}}
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore29/archivos/esnog.pdf))
 
@@ -88,7 +88,7 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-29
 ### 12:30 - 13:30 CEST
 ##### Taller “Migración 10G -> 100G en entorno multiplexado”
 **Amedeo Beck-Peccoz (SolidOptics)** 
-{{% portfolio image="/gore29/img/esnog-logo-small.jpg" alt="ESNOG" %}}
+{{% portfolio image="/gore29/img/Amedeo_beck-small.jpg" alt="ESNOG" %}}
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore29/archivos/esnog.pdf))
 
