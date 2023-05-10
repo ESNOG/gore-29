@@ -47,7 +47,8 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-29
 
 ---------------------------
 ## 10:30 - 11:00 CEST
-##### PRESENTACION A CONFIRMAR
+##### Técnicas de modulación para fibra óptica
+**Amedeo Beck-Peccoz (SolidOptics)** 
 {{% portfolio image="/gore29/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore29/archivos/esnog.pdf))
@@ -64,16 +65,7 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-29
 {{% /portfolio %}} 
 
 ---------------------------
-### 11:30 - 12:00 CEST     
-##### PRESENTACION A CONFIRMAR
-{{% portfolio image="/gore29/img/esnog-logo-small.jpg" alt="ESNOG" %}}
-
-([*PRESENTACION NO DISPONIBLE AUN*](/gore29/archivos/esnog.pdf))
-
-{{% /portfolio %}}  
-
----------------------------
-### 12:00 - 12:30 CEST
+### 11:30 - 12:00 CEST
 ##### Análisis automático de tráfico
 **Javier Aracil / Jorge López de Vergara (UAM / Naudit)** 
 {{% portfolio image="/gore29/img/esnog-logo-small.jpg" alt="ESNOG" %}}
@@ -83,9 +75,9 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-29
 {{% /portfolio %}}  
 
 ---------------------------
-### 12:30 - 13:00 CEST
+### 12:00 - 12:30 CEST     
 ##### C&P: Configuración automática de BGP con un café en la mano
-**Carlos Fraga** 
+**Carlos Fraga**
 {{% portfolio image="/gore29/img/Carlos-fraga_small.jpg" alt="Carlos Fraga" %}}
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore29/archivos/esnog.pdf))
@@ -93,7 +85,17 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-29
 {{% /portfolio %}}  
 
 ---------------------------
-### 13:00 - 14:30 CEST 
+### 12:30 - 13:30 CEST
+##### Taller “Migración 10G -> 100G en entorno multiplexado”
+**Amedeo Beck-Peccoz (SolidOptics)** 
+{{% portfolio image="/gore29/img/esnog-logo-small.jpg" alt="ESNOG" %}}
+
+([*PRESENTACION NO DISPONIBLE AUN*](/gore29/archivos/esnog.pdf))
+
+{{% /portfolio %}}  
+
+---------------------------
+### 13:30 - 14:30 CEST 
 ##### COMIDA
 {{% portfolio image="/gore29/img/lunch-icon-small.png" alt="comida" %}}
 
@@ -159,11 +161,13 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-29
 ### 20:00 - 21:00 CEST
 #### Beers & Talk
 {{% portfolio image="/gore29/img/party01-icon.png" alt="cafe" %}}
+([*El lugar se anunciara en breve*](/gore29/archivos/esnog.pdf))
 {{% /portfolio %}} 
 
 ---------------------------
 ### 21:00 - 23:00 CEST
 #### Cena ESNOG
+([*Las invitaciones se repartiran durante las sesiones*](/gore29/archivos/esnog.pdf))
 {{% portfolio image="/gore29/img/diner_small.jpg" alt="cena" %}}
 {{% /portfolio %}} 
 
@@ -223,8 +227,9 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-29
 
 ---------------------------
 ### 12:00 - 12:30 CEST     
-##### PRESENTACION A CONFIRMAR
-{{% portfolio image="/gore29/img/esnog-logo-small.jpg" alt="ESNOG" %}}
+##### Obtén el máximo rendimiento con la reutilización de tus activos EOL
+**Jorge Tejada (MercadoIT)**
+{{% portfolio image="/gore29/img/JorgeTejada_small.jpg" alt="Jorge Tejada" %}}
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore29/archivos/esnog.pdf))
 
