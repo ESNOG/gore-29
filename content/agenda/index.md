@@ -15,8 +15,6 @@ Agradecemos a la EPS-UAM su aportacion de espacio para la Reunion 29 de ESNOG
 
 {{% /portfolio %}} 
 
-***Agenda provisional, pendiente de confirmación***
-
 ## Dia 18 de mayo de 2023
 ---------------------------
 ### 9:00 - 9:30 CEST 
@@ -66,8 +64,8 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-29
 
 ---------------------------
 ### 11:30 - 12:00 CEST
-##### Análisis automático de tráfico
-**Javier Aracil / Jorge López de Vergara (UAM / Naudit)** 
+##### Luces y sombras de la aplicación de técnicas de aprendizaje automático en la monitorización de redes
+**Jorge López de Vergara (UAM)** 
 {{% portfolio image="/gore29/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore29/archivos/esnog.pdf))
@@ -105,7 +103,7 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-29
 ### 14:30 - 15:00 CEST
 ##### IPv6 is entering its maturity stage
 **Paolo Volpato (Huawei)** 
-{{% portfolio image="/gore29/img/esnog-logo-small.jpg" alt="ESNOG" %}}
+{{% portfolio image="/gore29/img/Paolo_Volpato-small.jpg" alt="Paolo Volpato" %}}
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore29/archivos/esnog.pdf))
 {{% /portfolio %}}  
@@ -137,7 +135,15 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-29
 {{% /portfolio %}} 
 
 ---------------------------
-### 16:30 - 18:00 CEST
+### 16:30-16:40  
+##### Lightning Talk: Cereales con RIPE
+**Jose Antonio Montes** 
+{{% portfolio image="/gore29/img/esnog-logo-small.jpg" alt="ESNOG" %}}
+
+{{% /portfolio %}} 
+
+---------------------------
+### 16:40 - 18:00 CEST
 ### Puntos Neutros
 ##### DE-CIX
 **Marcos Sanz** 
@@ -193,9 +199,9 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-29
 
 ---------------------------
 ### 10:00 - 10:30 CEST     
-##### DDos desde Botnets
+#####  IA/ML en la mitigación de ataques DDoS
 **Jose Alberto Nistal Iglesias (Nokia)** 
-{{% portfolio image="/gore29/img/esnog-logo-small.jpg" alt="ESNOG" %}}
+{{% portfolio image="/gore29/img/jose_alberto_nistal-small.jpg" alt="Jose Alberto Nistal Iglesias" %}}
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore29/archivos/esnog.pdf))
 {{% /portfolio %}}  
