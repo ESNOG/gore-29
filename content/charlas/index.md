@@ -65,9 +65,11 @@ Increased awareness on the value of IPv6 to support innovation and competitivene
 
 ---------------------------
 
-### DDos desde Botnets
+###  IA/ML en la mitigación de ataques DDoS
 
 **Jose Alberto Nistal Iglesias** (Nokia)
+
+Las botnets han conquistado el mundo y el enfoque clásico de mitigación de ataques de denegación de servicio distribuidos (DDoS) ya no es adecuado para la mayoría de las amenazas. Es crucial para los administradores de red desarrollar un enfoque que se adapte a las nuevas necesidades de forma automatizada. En esta presentación mostraremos por qué la procedencia de esos ataques es importante y cómo podemos aprovechar el conocimiento de los dispositivos IoT y la infraestructura de internet para bloquear automáticamente los ataques de manera más eficiente
 
 ---------------------------
 
