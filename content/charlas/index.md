@@ -24,9 +24,9 @@ draft: true
 
 ---------------------------
 
-### Análisis automático de tráfico,
+### Luces y sombras de la aplicación de técnicas de aprendizaje automático en la monitorización de redes
 
-**Javier Aracil / Jorge López de Vergara** (UAM / Naudit)
+**Jorge López de Vergara** (UAM)
 
 ---------------------------
 

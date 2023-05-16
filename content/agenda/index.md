@@ -64,8 +64,8 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-29
 
 ---------------------------
 ### 11:30 - 12:00 CEST
-##### Análisis automático de tráfico
-**Javier Aracil / Jorge López de Vergara (UAM / Naudit)** 
+##### Luces y sombras de la aplicación de técnicas de aprendizaje automático en la monitorización de redes
+**Jorge López de Vergara (UAM)** 
 {{% portfolio image="/gore29/img/esnog-logo-small.jpg" alt="ESNOG" %}}
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore29/archivos/esnog.pdf))
