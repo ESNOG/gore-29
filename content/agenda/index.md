@@ -50,7 +50,7 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-29
 **María Isabel Gandia Carriedo (ESNOG)** 
 {{% portfolio image="/gore29/img/MariaIsabelGandia_small.png" alt="Maria Isabel Gandía" %}}
 
-([*PRESENTACION*](/gore29/archivos/0518_Código_de_conducta_ESNOG.pdf))
+([*PRESENTACION*](/gore29/archivos/0518_Codigo_de_conducta_ESNOG.pdf))
 
 {{% /portfolio %}}  
 
