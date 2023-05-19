@@ -80,10 +80,10 @@ pygmentsUseClasses = true # new add
     name = "Registro"
     weight = 1
     url = "registro"
-[[menu.main]]
-    name = "Presentaciones"
-    weight = 2
-    url = "charlas"
+#[[menu.main]]
+#    name = "Presentaciones"
+#    weight = 2
+#    url = "charlas"
 [[menu.main]]
     name = "Agenda"
     weight = 3
