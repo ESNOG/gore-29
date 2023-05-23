@@ -221,7 +221,7 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-29
 {{% portfolio image="/gore29/img/jose_alberto_nistal-small.jpg" alt="Jose Alberto Nistal Iglesias" %}}
 Las botnets han conquistado el mundo y el enfoque clásico de mitigación de ataques de denegación de servicio distribuidos (DDoS) ya no es adecuado para la mayoría de las amenazas. Es crucial para los administradores de red desarrollar un enfoque que se adapte a las nuevas necesidades de forma automatizada. En esta presentación mostraremos por qué la procedencia de esos ataques es importante y cómo podemos aprovechar el conocimiento de los dispositivos IoT y la infraestructura de internet para bloquear automáticamente los ataques de manera más eficiente
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore29/archivos/esnog.pdf))
+([*PRESENTACION*](/gore29/archivos/Nokia_Deepfield_DDoS_ESNOG-29_2023-05-19.pdf))
 {{% /portfolio %}}  
 
 ---------------------------
